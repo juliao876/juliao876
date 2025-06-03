@@ -21,7 +21,7 @@
 `C++`, `SQL`, `Java` (learning), `Kotlin`, `Swift` (learning)
 
 **Frontend & Web**  
-`HTML`, `CSS`, `JavaScript`, `React` (learning)
+`HTML`, `CSS`, `JavaScript`, `React`, `PHP` (learning)
 
 **Graphic Design**  
 `Adobe Illustrator`, `Photoshop`, `InDesign`, `Figma`, `Affinity Publisher`, `Canva`, `Adobe XD`
@@ -53,4 +53,4 @@
 
 📧 juliaopyd@gmail.com  
 📍 Tarnowskie Góry, Poland  
-🔗 [LinkedIn](https://www.linkedin.com/in/julia-opyd-04ab5527)
+🔗 [LinkedIn](https://www.linkedin.com/in/julia-opyd-04ab55277/)
